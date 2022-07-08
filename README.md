@@ -1,5 +1,5 @@
 ## Desafio de Projeto DIO - Git/Github :computer: :rocket:
-Repositório para o desafio de projeto.
+Repositório para o desafio de projeto. Algumas anotações impotantes sobre o curso serão adicionadas ao longo do tempo. 
 
 ### Links úteis utilizados neste repositório :books:
 
