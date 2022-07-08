@@ -1,8 +1,10 @@
 # Notas Aulas - Introdução ao Git e GitHub :book:
 
+#### **Git** 
 
+Criar e monitorar diferentes versões de códigos. Navegação via *Command Line Interface*.
 
-**Git** - Criar e monitorar diferentes versões de códigos. Navegação via *Command Line Interface*.
+#### Antes de iniciar vamos cadastrar as chaves de segurança! :lock:
 
 Para utilizar o Git Bash e o GitHub de forma segura deve-se gerar *chave de segurança*. Dois métodos são disponibilizados:
 
