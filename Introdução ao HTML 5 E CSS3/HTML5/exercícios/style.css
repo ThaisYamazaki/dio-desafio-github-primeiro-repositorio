@@ -1,14 +1,16 @@
 body {
-    background:paleturquoise;
+    background:#37899c;
     font-family: Arial;
+    max-width: 1200px;
+    margin: auto;
 }
 
 #title, .subtitle, .post_title, p {
-    color:darkolivegreen;
+    color:#001f36;
 }
 
 #title {
-    font-size: 40px;
+    font-size: 30px;
     text-transform: uppercase;
 }
 
@@ -27,13 +29,13 @@ a {
 
 .photo_1 {
     border-radius: 50%;
-    border: 3px solid #FFDAB9;
+    border: 3px solid #004658;
 }
 
 .post_article, #title {
-    background:papayawhip;
+    background:#1c687a;
     padding: 15px;
-    border: 3px dashed #FFDAB9;
+    border: 3px dashed #004658;
     margin: 0px;
     margin-bottom: 15px;
     border-radius: 10px;
@@ -50,6 +52,7 @@ a {
     margin-bottom: 15px;
     font-size: 20px;
     text-transform:initial;
+    text-align: justify;
 }
 
 .subtitle {
